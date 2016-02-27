@@ -1,0 +1,22 @@
+{
+  "name": "disjunction",
+  "version": "0.0.1",
+  "description": "Library of unorthodox promises.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DarkTechnologies/disjunction.git"
+  },
+  "keywords": [
+    "promises"
+  ],
+  "author": "Shawn Rapp",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DarkTechnologies/disjunction/issues"
+  },
+  "homepage": "https://github.com/DarkTechnologies/disjunction#readme"
+}
